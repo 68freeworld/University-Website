@@ -7,7 +7,7 @@
 }
     
 body {    
-    background-color: rgb(207, 217, 230);
+    background-color: rgb(253, 234, 148);
     font-family: "Cedarville Cursive";
     font-weight: 500;
 }
@@ -18,7 +18,7 @@ cite{
     
 .navbar{    
     font-family: 'Times New Roman', Times, serif;
-    background-color: crimson !important;
+    background-color: rgb(181, 125, 214) !important;
     padding: 5px;
     border: 0px;
 }
